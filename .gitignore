@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Spark / Hadoop
+spark-warehouse/
+derby.log
+metastore_db/
+tmp/
+*.jar # If you download drivers into project folders, exclude them if you don't want them in Git
+logs/
+.spark_history/
+
+
+data/Source_Data/
+
+
+# Operating System specific
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

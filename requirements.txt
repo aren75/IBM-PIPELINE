@@ -1,0 +1,6 @@
+boxsdk
+ibm_db
+pandas
+pyspark
+findspark
+python-dotenv

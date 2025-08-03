@@ -1,0 +1,2 @@
+data/Source_Data/cleaned_inventory_items.csv filter=lfs diff=lfs merge=lfs -text
+data/Source_Data/cleaned_events.csv filter=lfs diff=lfs merge=lfs -text
